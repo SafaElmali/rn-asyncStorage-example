@@ -17,12 +17,7 @@
 
 # How To Run The Project
 - Go to the main folder.
-
-## Android
 - To deploy to an Android emulator or attached Android phone, you can run the app by typing```react-native run-android``` 
-
-## IOS
-
 - To deploy to an IOS emulator, you can run the app by typing```react-native run-ios``` 
 
 ### License
