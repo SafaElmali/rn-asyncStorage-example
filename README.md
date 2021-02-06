@@ -23,4 +23,4 @@
 
 ## License
 
-React-AsyncStorage-Example is [MIT licensed](./LICENSE).
+rn-asyncStorage-example is [MIT licensed](./LICENSE).
