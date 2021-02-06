@@ -1,6 +1,7 @@
 <div align="center">
   
 # React AsyncStorage Example
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)<br>
 
 <i>This repo contains demo codes for my Medium article 👉  <a href="https://medium.com/@tsafaelmali/react-native-asyncstorage-kullan%C4%B1m%C4%B1-596db6162c0" target="_blank">Medium Article</a></i>
 
